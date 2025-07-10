@@ -106,3 +106,6 @@ tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
 yarl==1.18.3
+chromadb==0.4.28
+SpeechRecognition==3.10.1
+pyaudio==0.2.14
